@@ -1,4 +1,4 @@
-import Layout from '../layouts/main.js'
+import Layout from '../layouts/default.js'
 
 export default () => (
   <Layout>

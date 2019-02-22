@@ -3760,10 +3760,10 @@ module.exports = __webpack_require__(/*! ./dist/lib/head */ "./node_modules/next
 
 /***/ }),
 
-/***/ "./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2F_error&absolutePagePath=%2Fhome%2Fjoel%2FDev%2Fhello-next%2Fnode_modules%2Fnext%2Fdist%2Fpages%2F_error.js!./":
-/*!*****************************************************************************************************************************************************************************************************!*\
-  !*** ./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2F_error&absolutePagePath=%2Fhome%2Fjoel%2FDev%2Fhello-next%2Fnode_modules%2Fnext%2Fdist%2Fpages%2F_error.js ***!
-  \*****************************************************************************************************************************************************************************************************/
+/***/ "./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2F_error&absolutePagePath=%2FUsers%2Fjoelhoelting%2FDev%2Fhello-next%2Fnode_modules%2Fnext%2Fdist%2Fpages%2F_error.js!./":
+/*!**************************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2F_error&absolutePagePath=%2FUsers%2Fjoelhoelting%2FDev%2Fhello-next%2Fnode_modules%2Fnext%2Fdist%2Fpages%2F_error.js ***!
+  \**************************************************************************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -4564,14 +4564,14 @@ module.exports = (__webpack_require__(/*! dll-reference dll_3681e7fd756237ce51c6
 
 /***/ }),
 
-/***/ 1:
-/*!*********************************************************************************************************************************************************!*\
-  !*** multi next-client-pages-loader?page=%2F_error&absolutePagePath=%2Fhome%2Fjoel%2FDev%2Fhello-next%2Fnode_modules%2Fnext%2Fdist%2Fpages%2F_error.js ***!
-  \*********************************************************************************************************************************************************/
+/***/ 2:
+/*!******************************************************************************************************************************************************************!*\
+  !*** multi next-client-pages-loader?page=%2F_error&absolutePagePath=%2FUsers%2Fjoelhoelting%2FDev%2Fhello-next%2Fnode_modules%2Fnext%2Fdist%2Fpages%2F_error.js ***!
+  \******************************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! next-client-pages-loader?page=%2F_error&absolutePagePath=%2Fhome%2Fjoel%2FDev%2Fhello-next%2Fnode_modules%2Fnext%2Fdist%2Fpages%2F_error.js! */"./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2F_error&absolutePagePath=%2Fhome%2Fjoel%2FDev%2Fhello-next%2Fnode_modules%2Fnext%2Fdist%2Fpages%2F_error.js!./");
+module.exports = __webpack_require__(/*! next-client-pages-loader?page=%2F_error&absolutePagePath=%2FUsers%2Fjoelhoelting%2FDev%2Fhello-next%2Fnode_modules%2Fnext%2Fdist%2Fpages%2F_error.js! */"./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2F_error&absolutePagePath=%2FUsers%2Fjoelhoelting%2FDev%2Fhello-next%2Fnode_modules%2Fnext%2Fdist%2Fpages%2F_error.js!./");
 
 
 /***/ }),
@@ -4587,5 +4587,5 @@ module.exports = dll_3681e7fd756237ce51c6;
 
 /***/ })
 
-},[[1,"static/runtime/webpack.js"]]]));;
+},[[2,"static/runtime/webpack.js"]]]));;
 //# sourceMappingURL=_error.js.map
